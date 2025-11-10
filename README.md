@@ -1,7 +1,7 @@
 # 💸 PaySmart – Financial Stability Coach
 
 **Live Demo:** [https://paysmart-delta.vercel.app](https://paysmart-delta.vercel.app)  
-**YouTube Demo:** *(Coming Soon )*  
+**YouTube Demo: [https://youtu.be/VnILgRth084?si=hW3V48JVKQRrgoYW](https://youtu.be/VnILgRth084?si=hW3V48JVKQRrgoYW)  
 
 ---
 
